@@ -1,0 +1,8 @@
+.import/
+*.import
+.export/
+assets/
+sprites/
+todo.txt
+*.zip
+*.exe
